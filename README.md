@@ -1,8 +1,12 @@
 # Python-Talk
 Apr 2016 KCL Python talk presentation slides
 
-These are my slides for the presentation defined as a Jupyter notebook with the RISE package for slides. 
+These are my slides for the presentation defined as a Jupyter notebook with the RISE package for slides.
 
+### Summary
+The talk will cover the basics of the Python language, from syntax to objects and a few of the common features you'll encounter. The next topic is the mathematical and scientific libraries most relevant to transitioning your code and development process away from Matlab and into Python. This will include the numpy, scipy, and matplotlib libraries and how they relate to their equivalents in Matlab. The talk shall also cover the development environments available to use these libraries with, and how they replace the functionality provided by the Matlab environment. This talk assumes a good understanding of coding concepts (specifically in Matlab) and should leave you with sufficient knowledge of Python to start using it for scientific coding now.
+
+### Viewing
 This can be viewed online as a presentation at https://nbviewer.jupyter.org/github/ericspod/Python-Talk/blob/master/Presentation.ipynb (click the "View as Slides" button). You can view Presentation.ipynb in Github without this but it displays as a long notebook rather than slides.
 
 To view on your local machine:
