@@ -35,7 +35,6 @@ Docs:
  * Numpy for Matlab users: https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html
  * Matplotlib: http://matplotlib.org/contents.html
  * IPython: http://ipython.org/documentation.html
- * Introduction to solving biological problems with Python: http://pycam.github.io
  * Jupyter Start Guide: https://jupyter-notebook-beginner-guide.readthedocs.org/en/latest
 
 Courses, Tutorials, etc:
@@ -45,4 +44,5 @@ Courses, Tutorials, etc:
  * http://www.learnpython.org
  * http://www.scipy-lectures.org
  * http://nbviewer.jupyter.org
+ * http://pycam.github.io
  * http://www.xkcd.com
