@@ -18,17 +18,26 @@ Your browser should open up at http://localhost:8888/tree and serve files from t
 
 Anaconda can be gotten from https://www.continuum.io/downloads This is just a packaging of the Python interpreter and a large collection of scientific, mathematical, statistical, and other modules, specifically including numpy, scipy, Spyder, and matplotlib. If you want these packages with the Python distribution you've already got then using a package manager (such as pip https://pip.pypa.io/en/stable/installing/ or apt-get in Linux) is a good idea, otherwise you'll have to install them manually.
 
-
 ### Resources
 
 Homepages:
  * Python: http://www.python.org
  * Numpy: http://www.numpy.org
- * Scipy: http://www.scipy.org/
- * Matplotlib: http://www.matplotlib.org/
+ * Scipy: http://www.scipy.org
+ * IPython: http://ipython.org
+ * Matplotlib: http://www.matplotlib.org
  * Anaconda: https://www.continuum.io/downloads
- * 
+ * Spyder: https://pythonhosted.org/spyder
+ * Jupyter: http://jupyter.org
 
 Docs:
  * Numpy for Matlab users: https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html
- * 
+ * Introduction to solving biological problems with Python: http://pycam.github.io/
+ * Jupyter Start Guide: https://jupyter-notebook-beginner-guide.readthedocs.org/en/latest/
+
+Courses, Tutorials, etc:
+ * https://www.python.org/about/gettingstarted/
+ * https://www.codecademy.com/learn/python
+ * https://www.coursera.org/learn/python
+ * http://www.learnpython.org/
+ * http://www.xkcd.com
