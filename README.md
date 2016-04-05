@@ -14,7 +14,7 @@ To view on your local machine:
  2. Install Jupyter (ie. install Anaconda since it's included) and https://github.com/damianavila/RISE
  3. Start the IPython Notebook with the icon or with the command "ipython notebook"
  
-Your browser should open up at **http://localhost:8888/tree** and serve files from the current location, or in Windows creates a directory "Documents/IPython Notebooks" and serve from there. Copy the zip contents somewhere (or to "IPython Notebooks" in Windows), navigate there in the web form, and then click Presentation.ipynb.
+Your browser should open up at __http://localhost:8888/tree__ and serve files from the current location, or in Windows creates a directory "Documents/IPython Notebooks" and serve from there. Copy the zip contents somewhere (or to "IPython Notebooks" in Windows), navigate there in the web form, and then click Presentation.ipynb.
 
 Anaconda can be had from https://www.continuum.io/downloads This is just a packaging of the Python interpreter and a large collection of scientific, mathematical, statistical, and other modules, specifically including numpy, scipy, Spyder, IPython and matplotlib. If you want these packages with the Python distribution you've already got then using a package manager (such as pip https://pip.pypa.io/en/stable/installing/ or apt-get in Linux) is a good idea, otherwise you'll have to install them manually.
 
