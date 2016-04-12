@@ -772,7 +772,7 @@
     "      S\n",
     " * `C` performs some action before entering the block `S` and produces object `o` if requested\n",
     " * When `S` exits, `C` does something else or handles exceptions\n",
-    " * This is useful to allow `C` to perform setup and cleanup operations specific to some data item `o`"
+    " * This is useful to allow `C` to peform setup and cleanup operations specific to some data item `o`"
    ]
   },
   {
@@ -2242,7 +2242,7 @@
    "source": [
     "### Numpy\n",
     "\n",
-    "* Provides the `array` type for representing contiguous memory data arrays\n",
+    "* Provides the `array` type for representing continguous memory data arrays\n",
     "* An array of any type can be created, converted between types\n",
     "* Array operations defined with attributes, operators, methods\n",
     "* Objective is to perform fast array operations in compiled code while providing simple interface in Python\n",
@@ -2527,7 +2527,7 @@
    ],
    "source": [
     "print a*i # per-cell multiplication\n",
-    "print a.dot(i) # matrix multiplication"
+    "print a.dot(i) # matrix multiplcation"
    ]
   },
   {
