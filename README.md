@@ -41,6 +41,7 @@ Courses, Tutorials, etc:
  * https://www.coursera.org/specializations/python
  * http://www.learnpython.org
  * http://www.scipy-lectures.org
+ * http://scipython.com
  * http://nbviewer.jupyter.org
  * http://pycam.github.io
  * http://www.xkcd.com
