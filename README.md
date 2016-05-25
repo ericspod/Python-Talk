@@ -8,7 +8,7 @@ The talk will cover the basics of the Python language, from syntax to objects an
 ### Object-Orientation and Design Patterns.ipynb: June 2016 KCL OO presentation slides
 [https://nbviewer.jupyter.org/github/ericspod/Python-Talk/blob/master/Object-Orientation and Design Patterns.ipynb](https://nbviewer.jupyter.org/github/ericspod/Python-Talk/blob/master/Object-Orientation and Design Patterns.ipynb)
 
-This talk is an introduction to object-oriented programming, covering the basics of what objects are and the principles behind OO. Design patterns are abstract architectural concepts built on object-oriented principles, and will be covered here in brief with a few examples. The focus of the talk is on OO in Python although other languages (specifically C++) will be discussed briefly.
+This talk is an introduction to object-oriented programming, covering the basics of what objects are and the principles behind OO including abstraction, inheritance, and polymorphism. Design patterns are abstract architectural concepts built on object-oriented principles, and will be covered here in brief with a few examples. The focus of the talk is on OO in Python although other languages (specifically C++) will be discussed briefly.
 
 
 ### Viewing
