@@ -3,6 +3,8 @@
 These are my presentation slides defined as Jupyter notebooks (with the RISE package for slides).
 
 ### PythonScientific.ipynb: Apr 2016 KCL Python talk presentation slides
+[https://nbviewer.jupyter.org/github/ericspod/Python-Talk/blob/master/PythonScientific.ipynb](https://nbviewer.jupyter.org/github/ericspod/Python-Talk/blob/master/PythonScientific.ipynb)
+
 The talk will cover the basics of the Python language, from syntax to objects and a few of the common features you'll encounter. Further, I'll address the mathematical and scientific libraries most relevant to transitioning your code and development process away from Matlab and into Python. This will include the numpy, scipy, and matplotlib libraries and how they relate to their equivalents in Matlab. The talk shall also cover the development environments available to use these libraries with, and how they replace the functionality provided by the Matlab environment. This talk assumes a good understanding of coding concepts (specifically in Matlab) and should leave you with sufficient knowledge of Python to start using it for scientific coding now.
 
 ### Object-Orientation and Design Patterns.ipynb: June 2016 KCL OO presentation slides
