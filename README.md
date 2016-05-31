@@ -50,4 +50,5 @@ Courses, Tutorials, etc:
  * http://scipython.com
  * http://nbviewer.jupyter.org
  * http://pycam.github.io
+ * https://github.com/faif/python-patterns
  * http://www.xkcd.com
