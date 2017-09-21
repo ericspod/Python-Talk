@@ -48,6 +48,7 @@ Courses, Tutorials, etc:
  * https://www.codecademy.com/learn/python
  * https://www.coursera.org/specializations/python
  * http://www.learnpython.org
+ * https://www.fullstackpython.com
  * http://www.scipy-lectures.org
  * http://scipython.com
  * http://nbviewer.jupyter.org
