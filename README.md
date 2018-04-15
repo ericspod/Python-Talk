@@ -50,6 +50,7 @@ Courses, Tutorials, etc:
  * http://www.learnpython.org
  * https://www.fullstackpython.com
  * http://www.scipy-lectures.org
+ * https://www.tutorialspoint.com
  * http://scipython.com
  * http://nbviewer.jupyter.org
  * http://pycam.github.io
