@@ -18,7 +18,7 @@ The first set of slides can be viewed online as a presentation at https://nbview
 
 To view on your local machine:
  1. Download the whole repository as a zip file
- 2. Install Jupyter (ie. install Anaconda since it's included) and install https://github.com/damianavila/RISE as per that page's instructions
+ 2. Install Jupyter (ie. install Anaconda since it's included) (and install https://github.com/damianavila/RISE as per that page's instructions if the slides aren't correct)
  3. Start the IPython Notebook with the icon or with the command "jupyter notebook" (or in old verions "ipython notebook")
  4. Your browser should open up at __http://localhost:8888/tree__ and serve files from the current location, or in Windows creates a directory "Documents/IPython Notebooks" and serve from there. Copy the zip contents somewhere (or to "IPython Notebooks" in Windows), navigate there in the web form, and then click PythonScientific.ipynb.
 
